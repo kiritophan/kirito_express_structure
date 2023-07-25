@@ -20,3 +20,5 @@
 Lưu ý: Phải có file .babelrc cùng cấp .env
        + Phải cài đặt đủ @babel/cli @babel/core @babel/preset-env @babel/node
        + Trong lệnh khởi tạo dự án thêm dev và pro
+
++ Xóa tài khoản git: Credential Manager
